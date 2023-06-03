@@ -36,7 +36,7 @@ chmod +x script.sh
 
 ```
 PG_HOST=127.0.0.1
-PG_PORT=5433
+PG_PORT=36788
 PG_USER=app
 PG_PASSWORD=sirius
 PG_DBNAME=quiz_db
